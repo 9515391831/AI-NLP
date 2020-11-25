@@ -20,3 +20,11 @@ Converting the sentences in text into individual units
 <h3>Normalization</h3>
 
 Normalization is a systematic approach of decomposing tables to eliminate data redundancy(repetition) and undesirable characteristics like Insertion, Update and Deletion Anomalies. It is a multi-step process that puts data into tabular form, removing duplicated data from the relation tables.
+
+<h3>Stemming</h3>
+
+Stemming is the process of reducing a word to its word stem that affixes to suffixes and prefixes or to the roots of words known as a lemma. Stemming is important in natural language understanding (NLU) and natural language processing (NLP). ... Stemming is also a part of queries and Internet search engines.
+
+<h3>Lemmatization</h3>
+
+Lemmatization usually refers to doing things properly with the use of a vocabulary and morphological analysis of words, normally aiming to remove inflectional endings only and to return the base or dictionary form of a word, which is known as the lemma .
