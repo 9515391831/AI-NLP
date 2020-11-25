@@ -16,3 +16,7 @@ languages.
 
 Converting the sentences in text into individual units
 (or) words is called tokenization.
+
+<h3>Normalization</h3>
+
+Normalization is a systematic approach of decomposing tables to eliminate data redundancy(repetition) and undesirable characteristics like Insertion, Update and Deletion Anomalies. It is a multi-step process that puts data into tabular form, removing duplicated data from the relation tables.
