@@ -10,6 +10,8 @@ languages.
 
 <img src='https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/08/NLTK-NLP-with-Python.jpg'>
 
+<img src='https://www.contrib.andrew.cmu.edu/~dyafei/images/NLP01.jpg'>
+
 <h3>Tokenization</h3>
 
 Converting the sentences in text into individual units
