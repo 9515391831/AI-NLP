@@ -6,6 +6,8 @@ is to read, understand, and make sense of the human languages.
 NLP techniques rely on machine learning to derive meaning from human
 languages.
 
+<img src='https://www.experfy.com/blog/wp-content/uploads/2018/07/medium_2fd8ce3d-4ab8-40c4-96dd-9792725503a6.png'>
+
 <img src='https://data-flair.training/blogs/wp-content/uploads/sites/2/2018/08/NLTK-NLP-with-Python.jpg'>
 
 <h3>Tokenization</h3>
