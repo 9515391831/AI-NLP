@@ -44,3 +44,7 @@ TF-IDF is a statistical measure that evaluates how relevant a word is to a docum
 It has many uses, most importantly in automated text analysis, and is very useful for scoring words in machine learning algorithms for Natural Language Processing (NLP).
 
 TF-IDF (term frequency-inverse document frequency) was invented for document search and information retrieval. It works by increasing proportionally to the number of times a word appears in a document, but is offset by the number of documents that contain the word. So, words that are common in every document, such as this, what, and if, rank low even though they may appear many times, since they don’t mean much to that document in particular.
+
+<img src='https://d3i71xaburhd42.cloudfront.net/a0c0918623392a317b944c266deacf16e186660f/4-Figure1-1.png'>
+
+<img src='https://image.slidesharecdn.com/presentation2-131105235728-phpapp02/95/nlp-overview-4-638.jpg?cb=1383695998'>
